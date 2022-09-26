@@ -7,7 +7,7 @@
     "build": "tsc",
     "start": "node ./dist/index.js",
     "dev": "nodemon ./src/index.ts",
-    "test": "nodemon ./src/test.ts"
+    "test": "nodemon ./src/utils/test.ts"
   },
   "author": "Oleksandr Yaroshenko",
   "license": "ISC",

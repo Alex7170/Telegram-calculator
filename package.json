@@ -7,7 +7,8 @@
     "build": "tsc",
     "start": "node ./dist/index.js",
     "dev": "nodemon ./src/index.ts",
-    "test": "nodemon ./src/utils/test.ts"
+    "test": "nodemon ./src/utils/test.ts",
+    "parser": "nodemon ./src/utils.parser.ts"
   },
   "author": "Oleksandr Yaroshenko",
   "license": "ISC",
